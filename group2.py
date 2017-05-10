@@ -1,2 +1,2 @@
 def tweet():
-    return "i love charts" 
+    return "Sally Yates made the fake media extremely unhappy today "
